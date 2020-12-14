@@ -1,0 +1,2 @@
+Time =>12.16AM 
+Table Create and Data insert in PHP;
