@@ -1,5 +1,2 @@
 # Neadded link
-```
-1.https status code check:
-```
-[visit](https://httpstatuses.com/)
+1.https status code check:- [visit](https://httpstatuses.com/)
